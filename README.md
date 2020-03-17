@@ -6,4 +6,4 @@ We learn about github and how to enter to ubuntu in vagrant
 
 # holbertonschool-zero_day
 
-UPDATE
+PRUEBA
